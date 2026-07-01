@@ -1,0 +1,160 @@
+canonical_identifier: bkk:krp/KR6d0018/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0018/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙經文句私志諸品要義
+  identifiers:
+    krp: KR6d0018
+    cbeta: X29n0595
+    cbeta_old_id: X29n0595
+    authorityid: CA0002246
+    json_key: X0595
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X29/X29n0595.xml
+    old_id: X29n0595
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0018_000-X.yaml, hash: 'sha256:6e284b4dde21c4910e52f3383c548c9306d876572a84f9e00ee037cf94fc6b33'}
+  - {seq: 1, filename: KR6d0018_001-X.yaml, hash: 'sha256:f2a42a8f08fa5e9625105a597b86a4fdca4a1e25c8cc11d4cda5b518f76d43a9'}
+  - {seq: 2, filename: KR6d0018_002-X.yaml, hash: 'sha256:2a13b8da24e637edfcdaa61e63b8da7d18ac5811e2e2cd2d978b0f99e0522582'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0018_000-X.markers.yaml, hash: 'sha256:5237ded1f1739e9bf1e383486afbb2c58cdc8bddf0c64c4c9b9379b83d4b4dd6'}
+  - {seq: 1, role: markers, filename: assets/KR6d0018_001-X.markers.yaml, hash: 'sha256:20d63766899bad7cccc908d52e6e6fb3fd7393890d01105c7516e67db9070292'}
+  - {seq: 2, role: markers, filename: assets/KR6d0018_002-X.markers.yaml, hash: 'sha256:137c241cc29af2b0848e4979ab22718a2cd6b0a14c03d52a38dff9abb1b4eb4a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17441
+  label: 妙經文句私志諸品要義卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 方便品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-2
+    span:
+    - body
+    - 921
+    - 921
+  label: 化城喻品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-3
+    span:
+    - body
+    - 2886
+    - 2886
+  label: 法師品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-4
+    span:
+    - body
+    - 11567
+    - 11567
+  label: 見寶塔品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-5
+    span:
+    - body
+    - 13280
+    - 13280
+  label: 提婆達多品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-6
+    span:
+    - body
+    - 15017
+    - 15017
+  label: 持品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0018_X_001-mulu-7
+    span:
+    - body
+    - 15212
+    - 15212
+  label: 安樂行品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0018_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 19590
+  label: 妙經文句私志諸品要義卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0018_X_002-mulu-1
+    span:
+    - body
+    - 8784
+    - 8784
+  label: 從地涌出品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0018_X_002-mulu-2
+    span:
+    - body
+    - 11531
+    - 11531
+  label: 壽量品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0018_X_002-mulu-3
+    span:
+    - body
+    - 14676
+    - 14676
+  label: 分別功德品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0018_X_002-mulu-4
+    span:
+    - body
+    - 18592
+    - 18592
+  label: 妙音品第二十四
+  type: mulu
+  level: 1
+hash: sha256:1785f4bd66ed084ac65c487601fa4e975ab7c08f57c10e3970f6b288270fc6bd

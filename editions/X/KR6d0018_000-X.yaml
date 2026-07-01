@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0018/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙經文句私志諸品要義
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X29/X29n0595.xml
+    old_id: X29n0595
+hash: sha256:6e284b4dde21c4910e52f3383c548c9306d876572a84f9e00ee037cf94fc6b33
